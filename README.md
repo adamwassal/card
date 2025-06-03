@@ -37,6 +37,7 @@ Edit
 ```bash
 git clone https://github.com/your-username/card-design.git
 Open index.html in your browser — and you're done!
+```
 
 ## ✨ Features
 Clean and minimal design
