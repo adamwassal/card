@@ -32,18 +32,10 @@ Clean and minimal design
 
 Shadow and hover effects
 
-Fully responsive
-
-Easy to customize
-
 ## 📌 Use Cases
 User profiles
 
 Product previews
-
-Dashboard widgets
-
-Blog or news cards
 
 ## ⭐ Show Support
 If you like this project, please consider giving it a star ⭐
