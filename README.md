@@ -18,18 +18,6 @@ It's simple, responsive, and perfect for things like user profiles, product prev
 
 ---
 
-## 📁 Folder Structure
-
-card-design/
-├── index.html
-└── style.css
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repo:
